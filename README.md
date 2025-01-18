@@ -1,3 +1,3 @@
 -Flutter shutter project:Flutter shutter is a computational photography method that rapidly codes the exposure using a pseudo-random sequence of shutter states. This creates a coded motion blur pattern that can be more effectively deblurred compared to traditional uniform motion blur, enabling better reconstruction of moving objects.
 
--Optimizing a Chromatic Image Sensor for Extended Field of View:
+-Optimizing a Chromatic Image Sensor for Extended Field of View: This  roject optimizes optical system performance by combining advanced image processing with chromatic aberration analysis. It addresses a key challenge in optical design: maximizing the usable depth of field while accounting for color-dependent focusing variations
